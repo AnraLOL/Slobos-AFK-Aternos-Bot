@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LifestealSTAP.aternos.me ",
+    "ip": "LifestealSTAP.aternos.me",
     "port": 16892,
     "version": "",
     "try-creative": false
